@@ -49,7 +49,6 @@ mybatis:
   type-aliases-package: cn.fkx.entities    # 所有Entity别名类所在包
 
   mapper-locations:
-
   - classpath:mybatis/mapper/**/*.xml                       # mapper映射文件
 
 
@@ -117,7 +116,6 @@ mybatis:
   type-aliases-package: cn.fkx.entities    # 所有Entity别名类所在包
 
   mapper-locations:
-
   - classpath:mybatis/mapper/**/*.xml                       # mapper映射文件
 
 
